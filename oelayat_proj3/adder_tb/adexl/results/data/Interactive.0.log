@@ -1,0 +1,25 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Wed Nov 22 16:44:27 2023 
+Best design point: 1
+Design specs: 
+	oelayat_proj3:adder_tb:1	corner	C0 - 
+	oelayat_proj3:adder_tb:1	corner	C1 - 
+	oelayat_proj3:adder_tb:1	corner	C2 - 
+	oelayat_proj3:adder_tb:1	corner	Nominal - 
+	TpLH_Co		173.2p
+	TpHL_S		173.7p
+	TpLH_S		55.97p
+	Power		256.7u
+	PDP		44.47f
+	EDP		7.704y
+Design parameters: 
+	ptl		1
+	buf		2
+	x		2
+
+Interactive.0
+Number of points completed: 1
+Number of simulation errors: 3
+Interactive.0 completed. 
+Current time: Wed Nov 22 16:44:57 2023 

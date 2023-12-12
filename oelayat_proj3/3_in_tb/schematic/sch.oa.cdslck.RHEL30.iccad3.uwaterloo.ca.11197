@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      oelayat
+HostName                       iccad3.uwaterloo.ca
+ProcessIdentifier              11197
+ProcessCreationTime_UTC        1699759841
+ProcessCreationTime_Readable   Sat Nov 11 22:30:41 2023 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/oelayat/ece637_proj1/oelayat_proj3/3_in_tb/schematic/sch.oa.cdslck
+TimeEditLocked                 Sun Nov 12 00:04:02 2023 EST

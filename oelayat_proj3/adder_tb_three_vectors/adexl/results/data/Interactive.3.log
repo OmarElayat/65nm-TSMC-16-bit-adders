@@ -1,0 +1,80 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Fri Dec  1 03:37:58 2023 
+Best design point: 1
+Design specs: 
+	oelayat_proj3:adder_tb_three_vectors:1	corner	C2 - 
+	Power		367.4u
+	PDP		33.08f
+	EDP		2.978y
+	TpLH_S_vecA		15.85p
+	TpHL_S_vecA		135.7p
+	TpLH_Co_vecA		135.2p
+	TpHL_Co_vecA		44.83p
+	TpLH_S_vecB		35.29p
+	TpHL_S_vecB		50.46p
+	TpLH_C0_vecB		45.74p
+	TpHL_Co_vecB		51.38p
+	TpLH_S_vecC		35.22p
+	TpHL_S_vecC		50.04p
+	TpLH_Co_vecC		60.5p
+	TpHL_Co_vecC		30p
+	oelayat_proj3:adder_tb_three_vectors:1	corner	C4 - 
+	Power		348.7u
+	PDP		40.58f
+	EDP		4.722y
+	TpLH_S_vecA		21.91p
+	TpHL_S_vecA		173.7p
+	TpLH_Co_vecA		173.2p
+	TpHL_Co_vecA		59.48p
+	TpLH_S_vecB		44.63p
+	TpHL_S_vecB		63.95p
+	TpLH_C0_vecB		59.09p
+	TpHL_Co_vecB		67.29p
+	TpLH_S_vecC		44.66p
+	TpHL_S_vecC		63.86p
+	TpLH_Co_vecC		75.41p
+	TpHL_Co_vecC		37.5p
+	oelayat_proj3:adder_tb_three_vectors:1	corner	C3 - 
+	Power		338.6u
+	PDP		52.03f
+	EDP		7.994y
+	TpLH_S_vecA		30.2p
+	TpHL_S_vecA		227.5p
+	TpLH_Co_vecA		227.4p
+	TpHL_Co_vecA		79.86p
+	TpLH_S_vecB		58.49p
+	TpHL_S_vecB		84.34p
+	TpLH_C0_vecB		78.66p
+	TpHL_Co_vecB		89.67p
+	TpLH_S_vecC		58.7p
+	TpHL_S_vecC		83.63p
+	TpLH_Co_vecC		97.74p
+	TpHL_Co_vecC		48.3p
+	oelayat_proj3:adder_tb_three_vectors:1	corner	Nominal - 
+	Power		348.7u
+	PDP		40.58f
+	EDP		4.722y
+	TpLH_S_vecA		21.91p
+	TpHL_S_vecA		173.7p
+	TpLH_Co_vecA		173.2p
+	TpHL_Co_vecA		59.48p
+	TpLH_S_vecB		44.63p
+	TpHL_S_vecB		63.95p
+	TpLH_C0_vecB		59.09p
+	TpHL_Co_vecB		67.29p
+	TpLH_S_vecC		44.66p
+	TpHL_S_vecC		63.86p
+	TpLH_Co_vecC		75.41p
+	TpHL_Co_vecC		37.5p
+Design parameters: 
+	v		1.2
+	ptl		1
+	buf		2
+	x		2
+
+Interactive.3
+Number of points completed: 1
+Number of simulation errors: 0
+Interactive.3 completed. 
+Current time: Fri Dec  1 03:39:44 2023 

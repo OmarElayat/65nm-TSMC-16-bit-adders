@@ -1,0 +1,21 @@
+EVcdFile ""
+EVcdInfoFile ""
+VcdFile ""
+VcdInfoFile ""
+VectorFile nil
+allDefinitionFiles nil
+allDspfFiles nil
+allEVcdFiles nil
+allIncludedPaths ((t "/CMC/kits/GPDK45/gpdk045_v_6_0/models/spectre"))
+allPspiceFiles nil
+allSpefFiles nil
+allStimulusFiles nil
+allVcdFiles nil
+allVectorFiles nil
+definitionFiles nil
+dspfFile nil
+hlcheck "off"
+includePath "/CMC/kits/GPDK45/gpdk045_v_6_0/models/spectre"
+pspiceFile nil
+spefFile nil
+stimulusFile nil
